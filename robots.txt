@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-dd2bx2.salamduit.sbs/sitemap.xml
